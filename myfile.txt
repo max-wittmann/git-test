@@ -2,8 +2,11 @@ This is a file
 with some changes
 -> Improving the file with my edit <-
 -> A Change here is cool <-
-he he he
 -> Chill the chill <-
+[- A change more -]
+he he he
+[- And yet another change -]
+[- Teh heh heh -]
 he he h
 -> Posture <-
 [- A change here -]
