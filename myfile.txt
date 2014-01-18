@@ -1,6 +1,9 @@
 This is a file
 with some changes
 -> Improving the file with my edit <-
+-> A Change here is cool <-
 he he he
+-> Chill the chill <-
 he he h
+-> Posture <-
 [- A change here -]
