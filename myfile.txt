@@ -1,6 +1,9 @@
 This is a file
 with some changes
 -> Improving the file with my edit <-
+[- A change more -]
 he he he
+[- And yet another change -]
+[- Teh heh heh -]
 he he h
 [- A change here -]
